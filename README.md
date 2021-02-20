@@ -4,9 +4,10 @@
 
 ### Contents:
 - [Background](#Background)
-- [Data Import & Cleaning](#Data-Import-and-Cleaning)
-- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-- [Data Visualization](#Visualize-the-Data)
+- [Problem Statement](# Problem Statement)
+- [Datasets](# Datasets)
+- [Data Dictionary](#Data Dictionary)
+- [Summary of Analysis](# Summary of Analysis)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ## Background
@@ -22,7 +23,7 @@ Standardized tests have long been a controversial topic for students, administra
 However, many students feel obliged to take these exam as 2.2 Million test-takers completed the SAT while 1.8 million students took the ACT. It has been known that SAT is more popular on the East and West coast, and the ACT is reigning in the MidWest.
 
 <div>
-<img src="../image/SAT-vs-ACT-popularity-by-state.png" width="800"/>
+<img src="/image/SAT-vs-ACT-popularity-by-state.png" width="500"/>
 </div>
 
 [*source: https://crushthegretest.com/act-vs-sat/*](https://crushthegretest.com/act-vs-sat/)
@@ -44,7 +45,7 @@ It can be seen that the price of both test is very similar
 Below is 2019 Median Household Income in the US.
 
 <div>
-<img src="../image/median_hh_income.png" width="400"/>
+<img src="/image/median_hh_income.png" width="500"/>
 </div>
 
 [*source: https://www.census.gov/library/visualizations/interactive/2019-median-household-income.html*](https://www.census.gov/library/visualizations/interactive/2019-median-household-income.html)
@@ -72,6 +73,7 @@ In this analysis, the datasets used are
 ([*source*](https://www.statista.com/statistics/1036120/public-high-school-enrollment-state-us/))
 
 ### Data Dictionary
+
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
 |**state**|object|sat.data,act.data|State where the data is collected|
@@ -81,7 +83,9 @@ In this analysis, the datasets used are
 |**total**|int|sat.data,act.data|Average Total Score in that state|
 |**year**|int|sat.data,act.data|Year when data is collected|
 |**no_students**|int|sat.data,act.data|Number of students enrolled in public high schools in grade 6in the United States in 2017|
-### Summary of analysis
+
+
+### Summary of Analysis
 
 1. Numbers of SAT takers increase significantly after 2016. However,There are many states that SAT is not popular resulting in low participation rates.
 2. In Illinios, Colorado and West Virginia, the marketing campaign used is very effective. Since it can turn from very low SAT participation rate to become one of the highest SAT participation rate in the country. Its Strategies needs to be extended to other states with similar characteristics.
