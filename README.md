@@ -68,10 +68,10 @@ In this analysis, the datasets used are
 * [`act_2018.csv`](../data/act_2018.csv): 2018 ACT Scores by State
 * [`act_2019.csv`](../data/act_2019.csv): 2019 ACT Scores by State
 
-* [`students_by_state.xlsx`](../data/students_by_state.xlsx): Number of students enrolled in public high schools in the United States in 2017 
+* [`students_by_state.xlsx`](../data/students_by_state.xlsx): Number of students enrolled in public high schools in the United States in 2017
 ([*source*](https://www.statista.com/statistics/1036120/public-high-school-enrollment-state-us/))
 
-### Data Dictionary 
+### Data Dictionary
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
 |**state**|object|sat.data,act.data|State where the data is collected|
@@ -91,7 +91,3 @@ In this analysis, the datasets used are
 Based on our problem statement, we found that
 1. We should focus on Ohio and North Carolina by using strategies extracting for states mentioned above since they have the largest number of students and have similar characteristic to Illinios, Colorado and West Virginia.
 2. Also focus on California and Texas by trying to use strategies from 'Suppress' group which have the most loyalty and popularity among students in their area.
- 
-
-
-
