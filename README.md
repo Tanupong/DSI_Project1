@@ -22,9 +22,9 @@ Standardized tests have long been a controversial topic for students, administra
 
 However, many students feel obliged to take these exam as 2.2 Million test-takers completed the SAT while 1.8 million students took the ACT. It has been known that SAT is more popular on the East and West coast, and the ACT is reigning in the MidWest.
 
-<div>
-<img src="/image/SAT-vs-ACT-popularity-by-state.png" width="500"/>
-</div>
+<p align="center">
+<img src="/image/SAT-vs-ACT-popularity-by-state.png" width="700" />
+</p>
 
 [*source: https://crushthegretest.com/act-vs-sat/*](https://crushthegretest.com/act-vs-sat/)
 
@@ -38,15 +38,16 @@ Let's look at the registration Costs for SAT and ACT
 |---|---|---|---|
 |**Registration Fee**|The normal fee for each administration of the test you register for|\\$68  (\\$52 without essay)|\\$70  (\\$55 without essay)|
 |**Late Fee**|Charged if you register after the regular deadline but before the final late deadline	|\\$30|\\$32|
+
 [*source:https://blog.prepscholar.com/sat-cost-act-cost-and-how-to-save-money*](https://blog.prepscholar.com/sat-cost-act-cost-and-how-to-save-money)
 
 It can be seen that the price of both test is very similar
 
 Below is 2019 Median Household Income in the US.
 
-<div>
-<img src="/image/median_hh_income.png" width="500"/>
-</div>
+<p align="center">
+<img src="/image/median_hh_income.png" width="700"/>
+</p>
 
 [*source: https://www.census.gov/library/visualizations/interactive/2019-median-household-income.html*](https://www.census.gov/library/visualizations/interactive/2019-median-household-income.html)
 
