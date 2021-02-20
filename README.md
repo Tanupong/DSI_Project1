@@ -5,7 +5,7 @@
 ### Contents:
 - [Background](#Background)
 - [Problem Statement](#Problem-Statement)
-- [Data sets](#Datasets)
+- [Datasets](#Datasets)
 - [Data Dictionary](#Data-Dictionary)
 - [Summary of Analysis](#Summary-of-Analysis)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
