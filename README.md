@@ -28,7 +28,7 @@ Standardized tests have long been a controversial topic for students, administra
 
 However, many students feel obliged to take these exam as 2.2 Million test-takers completed the SAT while 1.8 million students took the ACT. It has been known that SAT is more popular on the East and West coast, and the ACT is reigning in the MidWest.
 
-![SAT-vs-ACT-popularity-by-state](../image/SAT-vs-ACT-popularity-by-state.png)
+![SAT-vs-ACT-popularity-by-state](/image/SAT-vs-ACT-popularity-by-state.png)
 
 In this study, we will explore how the trends has been for the last three years for each test, Nationwide and in top state where SAT is more favorable, to point out where should the board improve its marketing campaign to take over the competitor and make the most profit.
 
@@ -74,7 +74,7 @@ It can be seen that the price of both test is very similar
 
 Below is 2019 Median Household Income in the US.
 
-![median_hh_income](../image/median_hh_income.png)
+![median_hh_income](image/median_hh_income.png)
 ---
 
 
