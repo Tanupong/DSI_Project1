@@ -53,7 +53,7 @@ Below is 2019 Median Household Income in the US.
 In this study, we will explore how the trends has been for the last three years for each test, Nationwide and in top state where SAT is more favorable, to point out where should the board improve its marketing campaign to take over the competitor and make the most profit.
 
 
-### Problem Statement
+## Problem Statement
 
 **Tracks statewide participation between SAT and ACT to recommend where should the board improve participation rates**
 
@@ -72,7 +72,7 @@ In this analysis, the datasets used are
 * [`students_by_state.xlsx`](../data/students_by_state.xlsx): Number of students enrolled in public high schools in the United States in 2017
 ([*source*](https://www.statista.com/statistics/1036120/public-high-school-enrollment-state-us/))
 
-### Data Dictionary
+## Data Dictionary
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -85,13 +85,13 @@ In this analysis, the datasets used are
 |**no_students**|int|sat.data,act.data|Number of students enrolled in public high schools in grade 6in the United States in 2017|
 
 
-### Summary of Analysis
+## Summary of Analysis
 
 1. Numbers of SAT takers increase significantly after 2016. However,There are many states that SAT is not popular resulting in low participation rates.
 2. In Illinios, Colorado and West Virginia, the marketing campaign used is very effective. Since it can turn from very low SAT participation rate to become one of the highest SAT participation rate in the country. Its Strategies needs to be extended to other states with similar characteristics.
 3. Connecticut, Delaware and Michigan have 100% SAT participation rates over the past three year while ACT performance in these 3 states are not very strong. Theses 3 states also needs to be study more to understand the key winning factors.
 
-### Conclusions and Recommendations
+## Conclusions and Recommendations
 Based on our problem statement, we found that
 1. We should focus on Ohio and North Carolina by using strategies extracting for states mentioned above since they have the largest number of students and have similar characteristic to Illinios, Colorado and West Virginia.
 2. Also focus on California and Texas by trying to use strategies from 'Suppress' group which have the most loyalty and popularity among students in their area.
