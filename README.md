@@ -4,10 +4,10 @@
 
 ### Contents:
 - [Background](#Background)
-- [Problem Statement](# Problem Statement)
-- [Datasets](# Datasets)
-- [Data Dictionary](#Data Dictionary)
-- [Summary of Analysis](# Summary of Analysis)
+- [Problem Statement](#Problem-Statement)
+- [Datasets](#Data-sets)
+- [Data Dictionary](#Data-Dictionary)
+- [Summary of Analysis](#Summary-of-Analysis)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ## Background
@@ -57,7 +57,7 @@ In this study, we will explore how the trends has been for the last three years 
 
 **Tracks statewide participation between SAT and ACT to recommend where should the board improve participation rates**
 
-### Datasets
+## Datasets
 
 In this analysis, the datasets used are
 
