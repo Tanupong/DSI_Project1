@@ -32,7 +32,8 @@ There ia also a myth that an Ivy League school has SAT preference over ACT, howe
 
 The reason behind the state/geographic dominance of SAT is due to the fact that The College Board's founder are a group of a dozen colleges who are all on the east coast. While the ACT was developed at University of Iowa in the Midwest which both tests still have its dominance in its origin state till now.
 
-Let's look at the registration Costs for SAT and ACT
+
+Let's look at the registration Costs for SAT and ACT. It can be seen that the price of both test is very similar which did not affect student's decision making on what test to choose.
 
 |Fee type|Details|SAT Cost|ACT Cost|
 |---|---|---|---|
@@ -41,15 +42,21 @@ Let's look at the registration Costs for SAT and ACT
 
 [*source:https://blog.prepscholar.com/sat-cost-act-cost-and-how-to-save-money*](https://blog.prepscholar.com/sat-cost-act-cost-and-how-to-save-money)
 
-It can be seen that the price of both test is very similar
-
-Below is 2019 Median Household Income in the US.
+In 2015, ACT reported that it beated SAT in terms of test takers. ([*source*](https://www.compassprep.com/how-act-is-beating-the-sat-among-top-scorers/))
 
 <p align="center">
-<img src="/image/median_hh_income.png" width="700"/>
+<img src="/image/act_beat_sat.png" width="500" />
 </p>
 
-[*source: https://www.census.gov/library/visualizations/interactive/2019-median-household-income.html*](https://www.census.gov/library/visualizations/interactive/2019-median-household-income.html)
+Then, SAT decided to change its format in 2016 since the board thought it has become 'far too disconnected from the work of highschools' ([*source*](https://edition.cnn.com/2014/03/05/living/sat-test-changes-schools/index.html)). SAT removed its 'Guessing Penalty' and reduce its scoring from '600-2400' to '400-1600'. This new SAT is considerd to be easier due to many reasons. And it also got a great reception from either students or teachers even from the parents.
+
+For some statistics due to its change format:
+- By a 7-to-1 margin, students said they preferred the format of the new SAT over that of the old SAT. 
+- 80% of students reported feeling confident going into the new SAT.
+- Parents are five times more likely to prefer that their child take the new SAT over the old SAT.
+- Nearly 7 in 10 teachers support the changes to the SAT.
+([*source*](https://reports.collegeboard.org/archive/sat-suite-program-results/2016/new-sat-participation))
+
 
 In this study, we will explore how the trends has been for the last three years for each test, Nationwide and in top state where SAT is more favorable, to point out where should the board improve its marketing campaign to take over the competitor and make the most profit.
 
